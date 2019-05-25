@@ -1,5 +1,5 @@
 # Job-Queue
-Create a job queue that collects site html when given a URL
+Create a job queue that collects site html and persists it to a database when given a URL.
 
 ## To setup
 1. Run `npm install` from the root directory.
